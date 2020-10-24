@@ -1,7 +1,10 @@
 ### Hello World 👋
 💬 Ask me about fonts, python, linux & containers
+
 🌱 I’m currently learning RUST
+
 👯 I’m looking to collaborate on font development, python & rust projects and automate anything 😃  
+
 <!--
 **vishalvvr/vishalvvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
